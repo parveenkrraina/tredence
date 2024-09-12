@@ -1,4 +1,4 @@
-# DP-600: Microsoft Fabric Analytics Engineer Course Repository
+# DP-600: Microsoft Fabric Analytics Engineer
 
 Welcome to the GitHub repository for the DP-600: Microsoft Fabric Analytics Engineer course. This repository contains all the necessary content, lab instructions, and learning materials needed to master the skills required for a Fabric Analytics Engineer specializing in Microsoft technologies.
 
